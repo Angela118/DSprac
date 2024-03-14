@@ -1,3 +1,3 @@
-BOOSTCOURSE DATA SCIENCE PROJECTS COACHING STUDY : 2024
+# BOOSTCOURSE DATA SCIENCE PROJECTS COACHING STUDY : 2024
 
-Dataset: pima indian diabetes 
+- Dataset: Pima Indians Diabetes Database (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
